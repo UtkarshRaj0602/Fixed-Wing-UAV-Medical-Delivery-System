@@ -38,6 +38,9 @@ Learning Outcomes:
 
 
 
+My major role was design the prototype model of the UAV. Also i was the main head leading a team of 3 in publishing and writing up the research papers of the project. 
+
+
 Some images of the CAD design of the UAV: 
 
 ![WhatsApp Image 2022-02-19 at 05 01 30](https://user-images.githubusercontent.com/65725785/156887045-40a29022-e8aa-4c80-8652-aa7227328b2f.jpeg)
