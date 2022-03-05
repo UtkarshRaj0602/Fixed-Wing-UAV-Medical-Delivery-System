@@ -34,6 +34,7 @@ Learning Outcomes:
 5. Hands-on experience with ansys and its properties like fluent flow, etc.
 6. Learned about how manufacturing process is carried out in the real world. 
 7. Learned about team management, working in team, guiding the fellow team mates and project management.
+8. Dived deep into 3d printing and ligth weight PLA.
 
 
 
